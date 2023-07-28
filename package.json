@@ -1,0 +1,19 @@
+{
+  "name": "nodeweatherapp",
+  "version": "1.0.0",
+  "description": "Weather Application built using Node.js and OpenWeatherMap's public weather API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b-wang43/WeatherApp.git"
+  },
+  "author": "Blair Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b-wang43/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/b-wang43/WeatherApp#readme"
+}
